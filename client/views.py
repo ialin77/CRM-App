@@ -138,3 +138,6 @@ def clients_delete(request, pk):
     messages.success(request, 'The client was deleted.')
 
     return redirect('clients:list')
+
+def hallo(request):
+    pass

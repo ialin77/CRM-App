@@ -16,3 +16,7 @@ def dashboard(request):
         'leads': leads,
         'clients': clients,
     })
+
+
+def hallo(request):
+    pass

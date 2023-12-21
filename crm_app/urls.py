@@ -34,4 +34,5 @@ urlpatterns = [
     path('log-in/', views.LoginView.as_view(template_name='userprofile/login.html', authentication_form=LoginForm), name='login'),
     path('log-out/', views.LogoutView.as_view(), name='logout'),
     path('admin/', admin.site.urls),
+    # path
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
