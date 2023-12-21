@@ -51,6 +51,3 @@ def edit_team(request, pk):
         'form': form
     })
 
-
-def hallo(request):
-    pass

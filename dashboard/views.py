@@ -17,6 +17,3 @@ def dashboard(request):
         'clients': clients,
     })
 
-
-def hallo(request):
-    pass

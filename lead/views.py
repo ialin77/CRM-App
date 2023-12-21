@@ -215,6 +215,3 @@ class ConvertToClientView(LoginRequiredMixin, View):
         messages.success(request, 'The lead was converted to a client.')
 
         return redirect('leads:list')
-
-def hallo(request):
-    pass

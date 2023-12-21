@@ -33,5 +33,3 @@ def signup(request):
 def myaccount(request):
     return render(request, 'userprofile/myaccount.html')
 
-def hallo(request):
-    pass
