@@ -11,3 +11,6 @@ class UserProfile(models.Model):
             return self.active_team
         else:
             return Team.objects.filter(members__in=[self.user.id]).first()
+
+    def __str__(self):
+        return str(self.user)
