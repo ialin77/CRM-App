@@ -1,6 +1,33 @@
 # CRM-App
 
+CRM-App or Custom Relationship Management App is a website for managing all your company's relationships and interactions with customers and potential customers.
+For the CRM website, I used the Python language for all functionalities, and the entire application was written in PyCharm.
 
+Also, during the realization of the project, I used the Djnago web framework to develop the Custom Relationship Management App.
+
+The applications that make up the project are the following:
+
+• Base - this is the main application of the project where is stored the main template for the front page of the store and the Django template for the front page.
+
+• Userprofile - this is the app of the project where I created the functionalities for login, register, logout, and viewing your profile.
+
+• Dashboard - this is the app responsible for showing the Dashboard page with the leads and the clients of this website.
+
+• Lead - this is the app dedicated to the leads and their functionalities such as adding leads, editing your leads, deleting them, and transforming the leads into clients. Also here I integrated the functionalities of adding a comment to the lead, which is converted automatically to a client comment if the lead is converted to a client, and uploading a file in the lead and
+
+• Client - this is the app dedicated to the client and his functionalities such as adding a client, editing the client, deleting the client, and viewing the details about the client. Also here I integrated the functionality of exporting a CSV file with all clients.
+
+• Team -  this is the last app of the project where I created the practicalities such as viewing the team you belong to, editing the team if you are the owner, or switching your team with another team.
+
+Database
+----------
+For the database of this project, I used DB SQLite3 for storing all my data of the store.
+
+Front end
+-----------
+For the front end of the store, I used Django templates where I stored the HTML, Django template tags, and language.
+
+*** The templates and the CSS files used in this project weren't created by me and the design of the website wasn't a priority for me,  I just modified and adapted them for my vision of the store design. ***
 
 ![Screenshot 2024-01-31 183520](https://github.com/ialin77/CRM-App/assets/135040997/4c7af998-5a73-4f40-a9ce-775d822d5eec)
 ![Screenshot 2024-01-31 183545](https://github.com/ialin77/CRM-App/assets/135040997/35e7897a-8db0-4fbb-a299-bf527dea1f49)
