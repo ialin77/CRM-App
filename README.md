@@ -27,7 +27,7 @@ Front end
 -----------
 For the front end of the store, I used Django templates where I stored the HTML, Django template tags, and language.
 
-*** The templates and the CSS files used in this project weren't created by me and the design of the website wasn't a priority for me,  I just modified and adapted them for my vision of the store design. ***
+*** The templates and the CSS files used in this project weren't created by me and the website design wasn't a priority for me,  I just modified and adapted them for my vision of the store design. ***
 
 ![Screenshot 2024-01-31 183520](https://github.com/ialin77/CRM-App/assets/135040997/4c7af998-5a73-4f40-a9ce-775d822d5eec)
 ![Screenshot 2024-01-31 183545](https://github.com/ialin77/CRM-App/assets/135040997/35e7897a-8db0-4fbb-a299-bf527dea1f49)
