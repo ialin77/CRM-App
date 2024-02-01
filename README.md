@@ -1,7 +1,7 @@
 # CRM-App
 
 CRM-App or Custom Relationship Management App is a website for managing all your company's relationships and interactions with customers and potential customers.
-For the CRM website, I used the Python language for all functionalities, and the entire application was written in PyCharm.
+I used the Python language for the CRM website for all functionalities, and the entire application was written in PyCharm.
 
 Also, during the realization of the project, I used the Djnago web framework to develop the Custom Relationship Management App.
 
